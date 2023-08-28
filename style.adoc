@@ -1,0 +1,33 @@
+== Programming Style
+
+Programming is not a dry mechanical process, but a form of art. Well written
+code has an aesthetic appeal while poor form can make other programmers and
+instructors cringe. Programming assignments will be graded based on style and
+correctness. Good programming practices usually include many of the following
+principles:
+
+* A comment at the top of the program that includes:
+
+** Program authors
+
+** Date or Dates
+
+** A brief description of what the program does
+
+* Concise comments that summarize major sections of your code
+
+* Meaningful variable and function names
+
+* Function comments that include:
+
+. description of what function does
+
+. description of input value(s) (parameter values)
+
+. description of return value
+
+* Well organized code
+
+* White space or comments to improve legibility
+
+* Avoidance of large blocks of copy-pasted code
